@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **panegaiatharva+gh@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yOfqpotxkNkW-l119MxXXtDnrzuiv15O/view](https://drive.google.com/file/d/1yOfqpotxkNkW-l119MxXXtDnrzuiv15O/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1m8FTKT0DkD-zXr-DRnyl6e31U3Ck-nBr/view?usp=sharing](https://drive.google.com/file/d/1m8FTKT0DkD-zXr-DRnyl6e31U3Ck-nBr/view?usp=sharing)
 
 - ⚡ Fun fact **I have to learn a lot more**
 
