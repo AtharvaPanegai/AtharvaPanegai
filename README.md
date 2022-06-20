@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Atharva Panegai</h1>
 <h3 align="center">React and React Native Developer| Javascript Developer</h3>
 
-- 📫 How to reach me **panegaiatharva+gh@gmail.com**
+- 📫 How to reach me **atharvaapanegai+gh@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gApYE0LqWSl0RRVZoIokROUbRUZ_CHY3/view?usp=sharing)
 
