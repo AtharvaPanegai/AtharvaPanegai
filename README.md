@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Atharva Panegai</h1>
-<h3 align="center">React and React Native Developer| Javascript Developer</h3>
+<h3 align="center">MERN Stack Developer | React Native | ReactJS | NodeJS | Javascript Developer</h3>
 
 - 📫 How to reach me **atharvaapanegai+gh@gmail.com**
 
