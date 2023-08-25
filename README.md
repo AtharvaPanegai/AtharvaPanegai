@@ -3,7 +3,7 @@
 
 - 📫 How to reach me **atharvaapanegai+gh@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1gApYE0LqWSl0RRVZoIokROUbRUZ_CHY3/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lCIuga12dXLzu-HiyBIkX6hyY11qW7Ww/view?usp=sharing)
 
 - ⚡ Fun fact **I have to learn a lot more**
 
