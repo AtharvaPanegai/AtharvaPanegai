@@ -1,24 +1,103 @@
-<h1 align="center">Hi 👋, I'm Atharva Panegai</h1>
-<h3 align="center">MERN Stack Developer | React Native | ReactJS | NodeJS | Javascript Developer</h3>
+# Hi there, I'm Atharva Panegai! 👋  
 
-- 📫 How to reach me **atharvaapanegai+gh@gmail.com**
+🚀 **Software Engineer | Engineering Robust, High-Performance Distributed Systems**  
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1lCIuga12dXLzu-HiyBIkX6hyY11qW7Ww/view?usp=sharing)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/atharvapanegai/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-brightgreen)](https://atharvapanegai.netlify.app/)
+[![Twitter](https://img.shields.io/twitter/follow/AtharvaPanegai?style=social)](https://twitter.com/AtharvaPanegai)
+[![LeetCode](https://img.shields.io/badge/Leetcode-Profile-orange)](https://leetcode.com/atharvapanegai/)
 
-- ⚡ Fun fact **I have to learn a lot more**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/atharvapanegai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="atharvapanegai" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/atharvapanegai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atharvapanegai/" height="30" width="40" /></a>
-<a href="https://youtube.com/atharvapanegai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/atharvapanegai" height="30" width="40" /></a>
-</p>
+## 🔥 About Me  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
+- 💡 **Building scalable backend systems & API observability platforms**  
+- 🚀 **Currently working as an SDE at Signzy, optimizing high-scale onboarding systems**  
+- 🌱 **Exploring Distributed Systems, Kafka, and High-Performance Caching**  
+- 💬 **Ask me about Backend Engineering, API Monitoring, or Open Source**  
+- ⚡ **Passionate about DevOps, Cloud Technologies, and Automation**  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvapanegai&show_icons=true&locale=en&layout=compact" alt="atharvapanegai" /></p>
+---
 
+## 🛠️ Tech Stack  
 
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-333?style=flat&logo=typescript)
+![C++](https://img.shields.io/badge/-C++-333?style=flat&logo=c%2b%2b)  
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=atharvapanegai&" alt="atharvapanegai" /></p>
+**Backend:**  
+![Node.js](https://img.shields.io/badge/-Node.js-333?style=flat&logo=node.js)
+![Express.js](https://img.shields.io/badge/-Express.js-333?style=flat&logo=express)
+![Loopback](https://img.shields.io/badge/-Loopback-333?style=flat&logo=node.js)
+
+**Frontend:**  
+![ReactJS](https://img.shields.io/badge/-ReactJS-333?style=flat&logo=react)
+![React Native](https://img.shields.io/badge/-React%20Native-333?style=flat&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333?style=flat&logo=next.js)
+
+**Databases & Caching:**  
+![MongoDB](https://img.shields.io/badge/-MongoDB-333?style=flat&logo=mongodb)
+![Redis](https://img.shields.io/badge/-Redis-333?style=flat&logo=redis)
+
+**DevOps & Tools:**  
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-333?style=flat&logo=docker)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-333?style=flat&logo=kubernetes)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333?style=flat&logo=rabbitmq)
+![Kafka](https://img.shields.io/badge/-Kafka-333?style=flat&logo=apache-kafka)
+![Grafana](https://img.shields.io/badge/-Grafana-333?style=flat&logo=grafana)
+![Jenkins](https://img.shields.io/badge/-Jenkins-333?style=flat&logo=jenkins)
+
+---
+
+## 🚀 Open Source Projects  
+
+### **1️⃣ API Garuda** 🛡️ [[Website](https://apigaruda.com/)] [[Repo](https://github.com/AtharvaPanegai/garuda-api)]  
+🔹 **A real-time API health monitoring platform tracking millions of API calls daily.**  
+✅ **Tech:** Node.js, MongoDB, Redis, Kafka, RabbitMQ, React.js  
+✅ **Features:** API uptime tracking, auto-incident detection, real-time analytics  
+
+### **2️⃣ SkillCoup – Freelance Marketplace App** 💼 [[Frontend](https://github.com/AtharvaPanegai/skillcoup-rn)] [[Backend](https://github.com/AtharvaPanegai/skillcoup_backend)]  
+🔹 **A full-stack freelance marketplace with payments & real-time messaging.**  
+✅ **Tech:** React Native, Node.js, Express, MongoDB, Stripe  
+✅ **Features:** Secure transactions, user authentication, role-based UI  
+
+### **3️⃣ React Native UI Library** 📱 [[Repo](https://github.com/AtharvaPanegai/ReactNativeUI)]  
+🔹 **Accelerates UI development with pre-built components for React Native.**  
+✅ **2,000+ downloads** & **500+ active users**  
+
+---
+
+## 📈 GitHub Stats  
+ ![Atharva's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AtharvaPanegai&show_icons=true&theme=radical&count_private=true)  
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AtharvaPanegai&layout=compact&theme=radical&langs_count=10&hide=css,html)  
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=AtharvaPanegai&theme=radical&hide_border=false)  
+  ![Trophies](https://github-profile-trophy.vercel.app/?username=AtharvaPanegai&theme=radical&row=1&no-bg=true&no-frame=true)
+
+---
+
+## 🎯 Currently Working On  
+
+- 🚀 **Scaling API Garuda** to handle 10M+ API calls/day  
+- 🔥 **Optimizing Kafka & RabbitMQ for real-time API monitoring**  
+- 🎯 **Contributing to OpenTelemetry & API Observability Projects**  
+
+---
+
+## 📫 Let's Connect  
+
+- 💼 **LinkedIn:** [linkedin.com/in/atharvapanegai](https://www.linkedin.com/in/atharvapanegai/)  
+- 🐦 **Twitter:** [@AtharvaPanegai](https://twitter.com/AtharvaPanegai)  
+- 📧 **Email:** atharvaapanegai+gh@gmail.com  
+- 🌍 **Portfolio:** [atharvapanegai.netlify.app](https://atharvapanegai.netlify.app/)  
+
+---
+
+## 🚀 Contributions & Collaborations  
+
+I'm actively looking for **contributors** and **collaborators** for my open-source projects. If you're interested in API Monitoring, Performance Engineering, or React Native, **let's build something amazing together!** 🚀  
+
+---
+
+### ⭐ If you find my work helpful, consider giving a **star** to my repositories! 🌟  
